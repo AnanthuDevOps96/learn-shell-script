@@ -5,4 +5,4 @@ Address="Amrithlayam,Nra97,Lekshminada,Kollam"
 
 echo $name
 echo $address
-echo $(b)dollars
+echo ${b}dollars
